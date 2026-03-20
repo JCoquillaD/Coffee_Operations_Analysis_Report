@@ -15,6 +15,12 @@ I transformed a complex dataset of coffee transactions into a high-performance *
 * **Revenue Drivers:** Determined which product categories (e.g., Coffee vs. Bakery) contribute most to the bottom line versus those that drive volume.
 * **Operational Efficiency:** Tracked the **Average Order Value (AOV)** and **Average Coffee per Day** to benchmark store performance across different locations.
 
+##  Live Interactive Dashboard
+I've published the interactive version of this report to the Power BI Cloud. You can explore the data and filters here:
+
+👉 [**View Live Project on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNzM0YTllOTItNjc2NC00MzhlLTk1YzAtMGFmZGFjMzkwYWEyIiwidCI6Ijg2Yzk5YjhjLTc1MzMtNDVlMC1hYmUxLWFmZDE2NTBiYzdjOCIsImMiOjEwfQ%3D%3D)
+
+
 **Recommended Analysis (Answering Key Business Questions):**
 
 1. **How have Maven Roasters sales trended over time?** Analyzed monthly and daily revenue streams to identify growth patterns. Used **Time Intelligence DAX** to compare performance across different months and identify seasonal surges.
