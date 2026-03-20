@@ -18,7 +18,7 @@ I transformed a complex dataset of coffee transactions into a high-performance *
 ##  Live Interactive Dashboard
 I've published the interactive version of this report to the Power BI Cloud. You can explore the data and filters here:
 
-👉 [**View Live Project on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNzM0YTllOTItNjc2NC00MzhlLTk1YzAtMGFmZGFjMzkwYWEyIiwidCI6Ijg2Yzk5YjhjLTc1MzMtNDVlMC1hYmUxLWFmZDE2NTBiYzdjOCIsImMiOjEwfQ%3D%3D)
+👉 [**View Live Project on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNjViZDNmMGQtNjhjNi00NmE3LThlNzgtMzM3ZWNhOTQ3ZTE5IiwidCI6Ijg2Yzk5YjhjLTc1MzMtNDVlMC1hYmUxLWFmZDE2NTBiYzdjOCIsImMiOjEwfQ%3D%3D)
 
 
 **Recommended Analysis (Answering Key Business Questions):**
